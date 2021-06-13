@@ -1,0 +1,33 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# alice
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+**A** **li**ttle **c**onvenient **e**quipment for me.
+
+個人用関数の詰め合わせです。
+
+## インストール
+
+``` r
+remotes::install_github("suzuna/alice")
+```
+
+## 参考
+
+http://www.kinmosa.com/
