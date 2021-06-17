@@ -1,6 +1,6 @@
 Package: alice
 Type: Package
-Title: A little convenient equipment.
+Title: A Little Convenient Equipment
 Version: 0.1.0
 Author@R: person("suzuna",role=c("aut","cre"))
 Description: A little convenient equipment.
