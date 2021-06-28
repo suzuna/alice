@@ -2,4 +2,5 @@
 
 export("%>%")
 export(create_hyperlinked_dataframe)
+export(fill_head_na)
 importFrom(magrittr,"%>%")
