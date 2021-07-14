@@ -3,4 +3,5 @@
 export("%>%")
 export(create_hyperlinked_dataframe)
 export(fill_head_na)
+export(str_sub_bytes)
 importFrom(magrittr,"%>%")
