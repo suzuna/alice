@@ -1,6 +1,6 @@
 #' alice
 #'
-#' A little comfortable equipment.
+#' A little convenient equipment.
 #'
 #' @name alice
 #' @docType package
