@@ -5,5 +5,5 @@
 \alias{alice}
 \title{alice}
 \description{
-A little comfortable equipment.
+A little convenient equipment.
 }
